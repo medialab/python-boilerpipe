@@ -4,6 +4,8 @@ python-boilerpipe
 
 A python wrapper for Boilerpipe_, an excellent Java library for boilerplate removal and fulltext extraction from HTML pages. 
 
+Data has been archived [here](http://web.archive.org/web/20150420205957/https://boilerpipe.googlecode.com/files/boilerpipe-1.2.0-bin.tar.gz).
+
 Configuration
 =============
 
