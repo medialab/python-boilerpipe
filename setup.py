@@ -38,7 +38,7 @@ setup(
         ],
     },
     install_requires=[
-        'JPype1',
+        'JPype1==0.6.1',
         'charade',
     ],
     author='Misja Hoebe',
